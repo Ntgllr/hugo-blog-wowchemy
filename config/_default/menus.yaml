@@ -10,6 +10,17 @@ main:
   - name: Über mich
     url: about/
     weight: 20
+  - name: Impressum/Datenschutz
+    identifier: impressum-datenschutz
+    weight: 30
+  - name: Impressum
+    parent: impressum-datenschutz
+    url: impressum/
+    weight: 10
+  - name: Datenschutzerklärung
+    parent: impressum-datenschutz
+    url: datenschutz/
+    weight: 31
   # - name: Posts
   #   url: posts/
   #   weight: 15

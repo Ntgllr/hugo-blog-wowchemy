@@ -91,3 +91,9 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+############################
+## PERMALINKS
+############################
+permalinks:
+  
