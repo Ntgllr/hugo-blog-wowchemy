@@ -7,6 +7,10 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: About
+  - name: Über mich
     url: about/
     weight: 20
+  # - name: Posts
+  #   url: posts/
+  #   weight: 15
+  #   view: compact

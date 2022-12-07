@@ -18,6 +18,4 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
-
-Check out my [CV](/about/) and blog posts below 🌈
+Herzlich Willkommen bei den “Gesundheitsteilchen”. Hier soll es um Themen des Gesundheitswesens und der Gesundheitswissenschaften gehen.
