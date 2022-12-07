@@ -1,40 +1,23 @@
 ---
 title: Los gehts
-subtitle:
-
-# Summary for listings and search engines
-summary: Ich stelle mich vor und erzähle, worum es hier geht.
-
-# Link this post with a project
-projects: []
-
-# Date published
+subtitle: null
 date: 2022-12-07
-
-# Date updated
-lastmod: today
-
-# Is this an unpublished draft?
+summary: Erster Post der Gesundheitsteilchen. Ich stelle mich vor und heiße euch
+  herzlich Willkommen.
 draft: false
-
-# Show this page in the Featured widget?
 featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: '[**Unsplash**: @Mitifotos](https://unsplash.com/@mitifotos)'
-  focal_point: ''
-  placement: 2
-  preview_only: false
-
 authors:
   - admin
-
-tags: 
-
+lastmod: today
+tags: null
 categories:
   - Blog
+projects: []
+image:
+  caption: "[**Unsplash**: @Mitifotos](https://unsplash.com/@mitifotos)"
+  focal_point: ""
+  placement: 2
+  preview_only: false
 ---
 
 Herzlich Willkommen bei den Gesundheitsteilchen. Kommt herein, seht euch um und sucht euch was aus.
